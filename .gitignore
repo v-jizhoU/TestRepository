@@ -4,3 +4,14 @@
 
 /ConsoleApplication/.vs/ConsoleApplication/v15/Browse.VC.db
 /ConsoleApplication/.vs/ConsoleApplication/v15/Browse.VC.opendb
+/ConsoleApplication/x64/Debug
+/ConsoleApplication/ConsoleApplication/x64/Debug/vc141.pdb
+/ConsoleApplication/ConsoleApplication/x64/Debug/vc141.idb
+/ConsoleApplication/ConsoleApplication/x64/Debug/pch.obj
+/ConsoleApplication/ConsoleApplication/x64/Debug/ConsoleApplication.pch
+/ConsoleApplication/ConsoleApplication/x64/Debug/ConsoleApplication.obj
+/ConsoleApplication/ConsoleApplication/x64/Debug/ConsoleApplication.log
+
+/.vs
+/ConsoleApplication/.vs/ConsoleApplication/v15
+/ConsoleApplication/ConsoleApplication/x64/Debug/ConsoleA.844990C2.tlog

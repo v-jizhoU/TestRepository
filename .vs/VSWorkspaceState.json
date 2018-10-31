@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApplication\\ConsoleApplication",
+    "\\ConsoleApplication\\x64",
+    "\\ConsoleApplication\\x64\\Debug"
   ],
   "PreviewInSolutionExplorer": false
 }
